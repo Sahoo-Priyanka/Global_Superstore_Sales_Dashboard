@@ -5,6 +5,9 @@ The primary objective of the Global Superstore Sales Analysis Dashboard is to ga
 ## Dataset Used:
 We utilized the Global_superstore_2016.xlsx dataset for our analysis.
 
+## Tool Used:
+POWER BI
+
 ## Data Preparation:
 Before creating the dashboard, we conducted the following data preparation steps:
 1.	Data Cleaning 
